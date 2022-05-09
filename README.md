@@ -11,7 +11,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/RetroWonder/flashpass?color=yellow&label=Stars&logo=github&style=flat-square) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/RetroWonder/flashpass?label=Repo%20size&logo=github&style=flat-square) 
 
-  <div align= right>
+  <div align= left>
     
 FlashPass is a website dedicated to preserving all old flash games, you may fork this repository and use this to any extent you would like!
 
