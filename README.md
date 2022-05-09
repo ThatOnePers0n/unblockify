@@ -15,6 +15,7 @@ Also, Thanks for checking this out!
     Info
   </h1>
   
+  
   <div align='center'>
   
 ![GitHub issues](https://img.shields.io/github/issues/RetroWonder/flashpass?logo=github&style=flat-square) 
