@@ -17,7 +17,6 @@ Also, Thanks for checking this out!
   
   
   <div align='center'>
-  
 ![GitHub issues](https://img.shields.io/github/issues/RetroWonder/flashpass?logo=github&style=flat-square) 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/RetroWonder/flashpass?label=Pull%20requests&logo=github&style=flat-square) 
 ![GitHub](https://img.shields.io/github/license/RetroWonder/flashpass?label=Licence&logo=github&style=flat-square) 
