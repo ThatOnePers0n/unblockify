@@ -1,0 +1,7 @@
+{
+  "name": "FlashPass",
+  "description": "A flash revival project that you can host!",
+  "repository": "https://github.com/RetroWonder/flashpass",
+  "logo": "https://lh3.googleusercontent.com/t8KUqF1NJjp4nB6A95nmf8HDXX2TkmfNbpBTzkQRvBwCzQuTA0bMzU6aona-shorw5bVfQGjwQFWA42evsVQpSwb6F1N3uAuCPwo58kFGYFR3awJ",
+  "keywords": ["node", "express", "static"]
+}
