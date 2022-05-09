@@ -1,4 +1,6 @@
-<h1><center># FlashPass</center></h1>
+<h1 align= center >
+  FlashPass
+</h1>
 
 FlashPass is a website dedicated to preserving all old flash games, you may fork this repository and use this to any extent you would like!
 
