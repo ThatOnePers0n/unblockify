@@ -1,5 +1,5 @@
 <h1 align= center >
-  Indigo Games CDN
+  Unblockify
   
 ![GitHub issues](https://img.shields.io/github/issues/RetroWonder/flashpass?logo=github&style=flat-square) 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/RetroWonder/flashpass?label=Pull%20requests&logo=github&style=flat-square) 
@@ -12,7 +12,7 @@
 
   <div align= left>
     
-Indigo Games is a website dedicated to unblocking all games, you may fork this repository and use this to any extent you would like!
+Unblockify is a website dedicated to unblocking all games and proxies, you may fork this repository and use this to any extent you would like!
 
 Also, Thanks for checking this out!
 
@@ -25,8 +25,8 @@ Also, Thanks for checking this out!
     
 <div align='center'>      
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RetroWonder/indigogamescdn)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RetroWonder/indigogamescdn)
-[![Remix on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/RetroWonder/indigogamescdn)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FRetroWonder%2Findigogamescdn)
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/RetroWonder/indigogamescdn)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RetroWonder/unblockify)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RetroWonder/unblockify)
+[![Remix on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/RetroWonder/unblockify)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FRetroWonder%2Funblockify)
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/RetroWonder/unblockify)
